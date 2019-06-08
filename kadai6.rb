@@ -45,5 +45,3 @@ CSV.open("#{filename}.csv", 'wb') do |csv|
   end
 end
 puts "Done!"
-
-# Rubyで文字列と数値を相互に変換するメソッドとかのまとめ https://gist.github.com/masquaremo/5114411
